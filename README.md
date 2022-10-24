@@ -1,7 +1,7 @@
 # `Cifrado a lo largo de la historia`
 
 ## Introduccion
-
+A lo largo de la historias han habido varios codigos de cifrado, que debido a las diversas guerras se buscaban maneras de enviar mensajes tratando que el enemigo no los detectara o descifrara y en este proyecto vamos a hablar de algunos que hemos encontrado interesantes. 
 ## Contenidos 
 
 Encripta mensajes reflejando el abecedario por la mitad. En una hoja de papel, escribe las letras de la A a la M en la misma línea y luego, justo debajo de ella, escribe las letras de la N a la Z también en una sola línea. Cambia cada una de las letras de un mensaje por la letra opuesta de las dos líneas de letras que hayas escrito.
@@ -15,6 +15,7 @@ https://es.wikihow.com/crear-c%C3%B3digos-y-cifrados-secretos
 
 
 ## Referencias 
+
  
 ## Autores
 
