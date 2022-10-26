@@ -12,7 +12,7 @@ Emplea el cifrado de rotación con fechas. Elige una fecha, la cual puede tener 
 Por ejemplo, para usar el cumpleaños de George Washington (22/2/1732), lo escribirías como 2221732.
 En caso de que acuerdes de antemano usar un cifrado de rotación con fechas con otra persona, puedes darle una pista en cuanto a la clave numérica junto con los mensajes cifrados (como "Washington")
 ![Capturagithubmetodo2](https://user-images.githubusercontent.com/114906901/197468526-118c939b-c7e0-4c51-abdc-1525fe7631f3.PNG)
-https://es.wikihow.com/crear-c%C3%B3digos-y-cifrados-secretos
+
 
 
 Dibuja dos X debajo de cada cuadrícula. También llenarás cada una de estas X con letras para terminar la clave del cifrado francmasón. En la segunda X, debes colocar puntos en los espacios abiertos que rodeen al punto de intersección de manera que haya un punto a cada lado del centro de la X. Luego, haz lo siguiente:
@@ -30,7 +30,7 @@ En caso de que acuerdes de antemano usar un cifrado de rotación con fechas con 
 
 
 ## Referencias 
-
+- [Wiki How](https://es.wikihow.com/crear-c%C3%B3digos-y-cifrados-secretos)
  
 ## Autores
 - Larry Reynoso García
