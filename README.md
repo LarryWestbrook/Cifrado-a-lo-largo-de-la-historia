@@ -10,7 +10,7 @@ A lo largo de la historias han habido varios codigos de cifrado, que debido a la
 
 - [Fracmason](Fracmason/fracmason.md)
 
--[Binario](Binario/binario.md)
+- [Binario](Binario/binario.md)
 
 ## Referencias 
 - [Wiki How](https://es.wikihow.com/crear-c%C3%B3digos-y-cifrados-secretos)
