@@ -6,7 +6,7 @@ A lo largo de la historias han habido varios codigos de cifrado, que debido a la
 
 - [Reflect Method](ReflectMethod/reflectmethod.md)
 
-![Capturagithubmetodo1](https://user-images.githubusercontent.com/114906901/197467601-6ae3586c-eef4-48eb-b01f-76cc1ce1108e.PNG)
+
 
 Emplea el cifrado de rotación con fechas. Elige una fecha, la cual puede tener un significado especial para ti (como un cumpleaños o la fecha de tu graduación de la universidad) o bien ser impersonal (como el cumpleaños de George Washington). Debes escribirla como una serie ininterrumpida de números y esto constituirá la clave numérica.
 Por ejemplo, para usar el cumpleaños de George Washington (22/2/1732), lo escribirías como 2221732.
