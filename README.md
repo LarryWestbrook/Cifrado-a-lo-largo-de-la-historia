@@ -8,7 +8,7 @@ A lo largo de la historias han habido varios codigos de cifrado, que debido a la
 
 - [Date Shift Chifer](DateShiftChifer/dateshiftchifer.md)
 
-- [Fracmason](fracmason/fracmason.md)
+- [Fracmason](Fracmason/fracmason.md)
 
 
 Escribe con el cifrado francmasón empleando la cuadrícula alrededor de las letras. Las formas de las cuadrículas (incluyendo los puntos) que rodean a las letras se emplean como reemplazos para las letras en sí. Puedes codificar mensajes al cifrado francmasón o decodificarlos empleando esta clave de cifrado.
