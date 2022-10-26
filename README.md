@@ -8,5 +8,7 @@ A lo largo de la historias han habido varios codigos de cifrado, que debido a la
 
  
 ## Autores
-
+Larry Reynoso García
+Moises Moreno Moreno
 ## Licencias
+![image](https://user-images.githubusercontent.com/114906861/197951221-8557fb78-d84a-4838-be47-1ef1b4a6e9c6.PNG)
