@@ -4,9 +4,7 @@
 A lo largo de la historias han habido varios codigos de cifrado, que debido a las diversas guerras se buscaban maneras de enviar mensajes tratando que el enemigo no los detectara o descifrara y en este proyecto vamos a hablar de algunos que hemos encontrado interesantes. 
 ## Contenidos 
 
-- [Reflect Method](Reflectmethod/reflectmethod.md)
-Encripta mensajes reflejando el abecedario por la mitad. En una hoja de papel, escribe las letras de la A a la M en la misma línea y luego, justo debajo de ella, escribe las letras de la N a la Z también en una sola línea. Cambia cada una de las letras de un mensaje por la letra opuesta de las dos líneas de letras que hayas escrito.
-Puedes usar el método del abecedario reflejado para convertir el mensaje "Hola" en "Ubyn"
+- [Reflect Method](ReflectMethod/reflectmethod.md)
 
 ![Capturagithubmetodo1](https://user-images.githubusercontent.com/114906901/197467601-6ae3586c-eef4-48eb-b01f-76cc1ce1108e.PNG)
 
