@@ -12,7 +12,7 @@ A lo largo de la historias han habido varios codigos de cifrado, que debido a la
 
 - [Binario](Binario/binario.md)
 
-- [Mirror Writing](Escritura en espejo/mirrorwriting.md)
+- [Mirror Writing](Escrituraenespejo/mirrorwriting.md)
 
 ## Referencias 
 - [Wiki How](https://es.wikihow.com/crear-c%C3%B3digos-y-cifrados-secretos)
